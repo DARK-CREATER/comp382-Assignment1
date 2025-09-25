@@ -52,3 +52,14 @@ dot -Tpng redesigned_nfa.dot -o redesigned_nfa.png
 ## Notes
 - All the detailed explanations and the proof are in the PowerPoint.  
 - The code and `.dot` files are here to make the project reproducible.  
+
+---
+
+## References
+- Sipser, M. (2012). *Introduction to the Theory of Computation* (3rd ed.). Cengage Learning. (Source of Figure 1.34 and the original NFA example)
+- Graphviz. (2025). *Graph Visualization Software*. Retrieved from https://graphviz.org (Used to generate automaton diagrams)
+- Python Software Foundation. (2025). *Python 3 Documentation*. Retrieved from https://www.python.org/doc/ (Used for simulation code of the redesigned NFA)
+- Microsoft. (2025). *Visual Studio Code*. Retrieved from https://code.visualstudio.com
+- GeeksforGeeks. (2024). *Modular Arithmetic and Applications*. Retrieved from https://www.geeksforgeeks.org/modular-arithmetic/ (Background reference on modular arithmetic applied in automata design)
+- Homebrew. (2025). *The Missing Package Manager for macOS (or Linux)*. Retrieved from https://brew.sh (Used as a package manager to install Graphviz via MacOS terminal)
+- W3Schools. (2025). *Python % Operator*. Retrieved from https://www.w3schools.com/python/ref_mod.asp (Modulo operator explanation)
