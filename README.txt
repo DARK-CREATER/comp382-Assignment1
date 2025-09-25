@@ -55,3 +55,19 @@ dot -Tpng redesigned_nfa.dot -o redesigned_nfa.png
 - GeeksforGeeks. (2024). *Modular Arithmetic and Applications*. Retrieved from https://www.geeksforgeeks.org/modular-arithmetic/ (Background reference on modular arithmetic applied in automata design)
 - Homebrew. (2025). *The Missing Package Manager for macOS (or Linux)*. Retrieved from https://brew.sh (Used as a package manager to install Graphviz via MacOS terminal)
 - W3Schools. (2025). *Python % Operator*. Retrieved from https://www.w3schools.com/python/ref_mod.asp (Modulo operator explanation)
+
+---
+
+## Participation/ Work Breakdown
+- NFA/DFA comparative python file – Sahil and Karan
+- Rough proof – Sahil
+- Finalized/ polished proof – Karan
+- Make the PowerPoint (Information and animations) - Sahil and Karan
+- Set up the GitHub/ create tasks - Karan
+- Make adjustments to GitHub – Sahil
+- Create README.txt file – Sahil and Karan
+- Upload deliverables to GitHub – Sahil
+- Find supplementary resources – Sahil and Karan
+- Create .dot files and Graphviz diagrams – Sahil 
+- Testing redesigned NFA against empirical proof – Sahil and Karan
+
