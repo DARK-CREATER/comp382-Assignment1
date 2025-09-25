@@ -11,7 +11,7 @@ The full explanation and proof are in the PowerPoint — this README just explai
 - **Assignment1_Presentation.pptx** – main slides with all explanations, diagrams, and proof.  
 - **Assignment1_NFA.py** – Python script that compares the original and redesigned NFAs.  
 - **original_nfa.dot** / **redesigned_nfa.dot** – Graphviz files describing both automata.  
-- **README.md** – this file.  
+- **README.txt** – this file.  
 
 ---
 
