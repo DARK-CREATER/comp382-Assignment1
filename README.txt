@@ -28,18 +28,10 @@ The full explanation and proof are in the PowerPoint — this README just explai
 ## How to render the diagrams
 To turn the `.dot` files into images, install [Graphviz](https://graphviz.org).  
 
-### macOS (Homebrew)
+### macOS (Homebrew) (MacOS was used for this project)
 ```bash
 brew install graphviz
-```
-
-### Ubuntu/Debian Linux
-```bash
-sudo apt-get install graphviz
-```
-
-### Windows
-Download from: https://graphviz.org/download/  
+``` 
 
 ### Generate images
 ```bash
