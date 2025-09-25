@@ -1,0 +1,25 @@
+digraph N3_redesigned {
+    rankdir=LR;
+    node [shape=circle];
+
+    q0 [label="q0 (start)"];
+    q1 [label="q1"];
+    q2 [label="q2"];
+    q3 [label="q3"];
+    q4 [label="q4"];
+    q5 [label="q5"];
+
+    # six-state cycle
+    q0 -> q1 [label="0"];
+    q1 -> q2 [label="0"];
+    q2 -> q3 [label="0"];
+    q3 -> q4 [label="0"];
+    q4 -> q5 [label="0"];
+    q5 -> q0 [label="0"];
+
+    # accepting states
+    q0 [shape=doublecircle];
+    q2 [shape=doublecircle];
+    q3 [shape=doublecircle];
+    q4 [shape=doublecircle];
+}
