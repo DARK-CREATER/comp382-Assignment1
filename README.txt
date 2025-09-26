@@ -8,7 +8,8 @@ The full explanation and proof are in the PowerPoint — this README just explai
 ---
 
 ## Files in this repo
-- **Assignment1_Presentation.pptx** – main slides with all explanations, diagrams, and proof.  
+- **Presentation (Animation).pptx** – main slides with all explanations, diagrams, and proof. Viewable through powerpoint, with working animations.
+- **Presentation (No Animations).pdf - main slides with all explanations, diagrams, and proof. PDF version, so animations no longer work. 
 - **Assignment1_NFA.py** – Python script that compares the original and redesigned NFAs.  
 - **original_nfa.dot** / **redesigned_nfa.dot** – Graphviz files describing both automata.  
 - **README.txt** – this file.  
